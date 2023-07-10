@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hygoroli
 - 👀 Estou iniciando os estudos em programação
 - 🌱 I’m currently learning  lógica
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on em projetos, na qualidade em projetos.
 - 📫 How to reach me ...
 
 <!---
